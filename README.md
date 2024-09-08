@@ -1,5 +1,3 @@
-some bits a pieces from personal and school projects.
-
-from Simulated Annealing to Bridge Collapse Simulation.
+All materials are results &or supporting program files for personal & school projects
 
 this repo serves as a showcase, dependencies to run are not included.
